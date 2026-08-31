@@ -9,4 +9,3 @@ Embracing the evolving landscape of agentic engineering and fast iteration.
 - 💬 **[tmgc](https://github.com/ghillb/tmgc)** - Script-first Telegram MTProto Go CLI built on gotd/td.
 - 🤖 **[swarmux](https://github.com/ghillb/swarmux)** - Agent-first tmux swarm orchestration CLI for local coding tasks.
 - ⚙️ **[dotfiles](https://github.com/ghillb/dotfiles)** - Configuration files and environment setup.
-- 🧪 **[fractal](https://github.com/ghillb/fractal)** - Experimental coding agent on an 8-hour self-evolution harness.
