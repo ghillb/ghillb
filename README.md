@@ -1,7 +1,6 @@
 # Hi, I'm Gero 👋
 
-Building developer tools, CLIs, and automation-first workflows.
-Embracing the evolving landscape of agentic engineering and fast iteration.
+Building developer tools, automations, and apps.
 
 ## Current Projects
 
